@@ -7,7 +7,6 @@ sleep 5s
 apt update && apt upgrade -y 
 #Updates and upgrades termux packages
 
-pkg install python ffmpeg -y 
 #Installs python
 
 pip install youtube-dl  
